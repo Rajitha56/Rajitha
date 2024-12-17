@@ -7,10 +7,10 @@ A highly motivated and detail-oriented data enthusiast passionate about leveragi
 
 ## 💻 Projects
 
--- **1. Swiggy Restaurant Data Analysis**
--- **2. Maven Market Sales Analysis**
--- **3. Employee Attrition Data Analysis**
--- **4.Walmart Sales Analysis**
+- **1. Swiggy Restaurant Data Analysis**
+- **2. Maven Market Sales Analysis**
+- **3. Employee Attrition Data Analysis**
+- **4.Walmart Sales Analysis**
 
 ---
 
